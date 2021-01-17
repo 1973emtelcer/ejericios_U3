@@ -1,0 +1,25 @@
+#formContainer {
+    border:1px solid black;
+    padding: 20px;
+}
+.label-form{
+    font-weight:  bolder;
+    width: 100px;
+    padding-right: 30px;
+    float: left;
+}
+.contenedor-boton {
+    text-align: center;
+}
+.enviar-boton {
+    background-color: blue;
+    color:white;
+    border: none;
+    border-radius: 15px;
+    padding: 12px;
+    font-size: 14px;
+}
+.enviar-boton:hover{
+    cursor: pointer;
+    background-color: lightgreen;
+}
