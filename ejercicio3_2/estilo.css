@@ -1,0 +1,16 @@
+body {
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+    background-color: rgba(178, 231, 247, 0.993);
+    line-height: 1.15;    
+}
+
+@media all and (min-width: 600px) {
+    h2 {
+        background-color: rgb(6, 116, 6);
+    }
+    ul {
+        background-color: rgb(243, 160, 83);
+    }
+}
