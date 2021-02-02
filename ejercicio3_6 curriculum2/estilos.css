@@ -1,0 +1,39 @@
+body{
+    color: grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Contenedor{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Contenedor-info{
+    background-color: rgb(24, 23, 23);
+    display: flex;
+}
+
+.Contenedor-contacto{
+    margin-left: 10px;
+}
+.Titulo{
+    font-size: 20px;
+    margin: 4px;
+}
+.Subtitulo{
+    font-size: 16px;
+    margin: 4;
+}
+
+.Contenedor-comentarios{
+    display: flex;
+    align-items: center;
+}
+.imprimir{
+    background-color:grey;
+    border: 2px white;
+    font-style: italic;
+    color: white;
+    height: 30px;
+    border-radius: 10px;
+}
